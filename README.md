@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Sarker Masfique Hasan
 
-**`AI Engineer | Data Analyst | Full-Stack Developer`**
-
-I'm a passionate AI Engineering graduate from Shanghai University of Engineering Science with expertise in machine learning, data analysis, and full-stack development. I enjoy building intelligent systems and solving complex problems through data-driven approaches.
+**`Data Analyst | Full-Stack Developer`**
 
 ---
 
