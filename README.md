@@ -16,7 +16,7 @@ I'm a passionate AI Engineering graduate from Shanghai University of Engineering
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **AI & Machine Learning**
+### **Machine Learning**
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4A90E2?style=for-the-badge)
