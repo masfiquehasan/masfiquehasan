@@ -55,9 +55,6 @@ I'm a passionate AI Engineering graduate from Shanghai University of Engineering
 ### **Bachelor of Engineering in Artificial Intelligence**
 **Shanghai University of Engineering Science** | `August 2020 - July 2024`
 
-- **GPA:** [Your GPA here]
-- **Thesis:** Intelligent vision-based system integrating object detection and text recognition
-- **Award:** International Student Ambassador (2024)
 
 ---
 
